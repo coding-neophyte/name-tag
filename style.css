@@ -1,0 +1,28 @@
+h1 {
+    background-color: red;
+    display: grid;
+    width: 300px;;
+    height:750x;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+p {
+    background-color: lightgray;
+    font-size: 38.5px;
+    display: inline-flex;
+    text-align: center;
+    border-style: solid;
+    padding: 28px;
+    margin: -35px 0px;
+    border-width: 3px;
+    border-color: red;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    font-family: cursive;
+    border-bottom-width: 30px;
+
+}
